@@ -4,7 +4,7 @@ import android.util.Base64;
 import android.util.Log;
 
 /**
- * Created by admin on 2018/3/30.
+ * Base64加密工具类
  */
 
 public class Base64Utils {

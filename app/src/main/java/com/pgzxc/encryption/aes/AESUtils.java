@@ -12,7 +12,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * Created by admin on 2018/3/30.
+ * AES加密工具类
  */
 
 public class AESUtils {

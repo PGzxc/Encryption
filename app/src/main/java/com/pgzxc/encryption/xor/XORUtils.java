@@ -1,7 +1,7 @@
 package com.pgzxc.encryption.xor;
 
 /**
- * Created by admin on 2018/3/30.
+ * 异或加密工具类
  */
 
 public class XORUtils {

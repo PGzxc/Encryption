@@ -14,7 +14,7 @@ import java.util.List;
 import javax.crypto.Cipher;
 
 /**
- * Created by admin on 2018/3/30.
+ * RSA加密工具类
  */
 
 public class RSAUtils {

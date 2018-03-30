@@ -1,7 +1,7 @@
 package com.pgzxc.encryption.bean;
 
 /**
- * Created by admin on 2018/3/30.
+ * 数据bean
  */
 
 public class Person {
